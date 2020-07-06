@@ -1,4 +1,4 @@
-# bank_note_authenticator
+# Bank Note Authenticator
  ---
 A Bank Note Classification Web-App using streamlit.
 It comprises of the following components:
