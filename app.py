@@ -91,7 +91,7 @@ def main():
             st.balloons()
         else:
             st.error('This Note is Forged')
-        st.write("Accuracy: ", score*100)
+        st.write(f"Accuracy: {score*100} %")
 
     st.sidebar.info(
         'Data were extracted from images that were taken from genuine and forged banknote-like specimens. Red[0] denotes forged and green denotes genuine[1].')
